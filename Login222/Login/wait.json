@@ -1,0 +1,65 @@
+{
+    "GN": "",
+    "GROUP": {
+        "AM": {
+            "AP": {}
+        },
+        "AR": {
+            "AP": [],
+            "P": {},
+            "S": {}
+        },
+        "LM": {
+            "AP": [],
+            "P": {},
+            "S": {}
+        },
+        "WM": {
+            "AP": [],
+            "P": {},
+            "S": {}
+        }
+    },
+    "Members": 0,
+    "MessageCount": true,
+    "ROM": {},
+    "ROM1": {},
+    "Unsend": {},
+    "autoJoin": false,
+    "autoLike": {
+        "comment": "Autolike by : รัตน์",
+        "status": false
+    },
+    "blacklist": [],
+    "bots": [],
+    "comment": false,
+    "info": {},
+    "limit": {},
+    "lurkauto": false,
+    "lurkp": {},
+    "lurkt": {},
+    "name": {},
+    "notificationCall": [],
+    "notificationCallPrank": [],
+    "owner": [],
+    "pesanCall": "",
+    "postId": [],
+    "prankCall": {
+        "audio": "",
+        "live": "",
+        "video": ""
+    },
+    "readPoint": {},
+    "readPoints": {},
+    "responCall": false,
+    "setTime": {},
+    "setTimess": [],
+    "setkey": "",
+    "status": true,
+    "talkblacklist": {},
+    "target": {},
+    "tos": {},
+    "ttt": "line://app/1632242027-X2pR2mp1?type=text&text=",
+    "userid": [],
+    "waktu": 2
+}

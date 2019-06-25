@@ -1,0 +1,5 @@
+
+[Minggu, 24 - 03 - 2019 | 17:44:38] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 17:44:39] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 17:46:24] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
+[Minggu, 24 - 03 - 2019 | 17:46:26] TalkException(code=32, reason='The sticker is not owned by the user', parameterMap=None)
